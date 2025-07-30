@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv
+.env:wa
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Data 
+data/

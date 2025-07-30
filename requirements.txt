@@ -1,0 +1,5 @@
+datasets
+transformers
+torch
+nltk
+numpy<2.0
